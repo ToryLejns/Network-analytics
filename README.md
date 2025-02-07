@@ -1,2 +1,5 @@
 # Network-analytics
-project fofr course of network anaytics
+project for course of network anaytics
+
+
+data: https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-behavior-dataset
